@@ -1,0 +1,23 @@
+h1 {
+color: darkgreen;
+}
+h1, h3 { 
+font-family: Georiga;
+text-align: center;
+}
+p {
+    line-height: 25px;
+}
+.cia {
+    text-decoration:none ;
+}
+.p4 {
+    text-transform: uppercase;
+}
+.cia:hover {
+    text-decoration: underline;
+}
+.img {
+    float: left;
+    padding: 20px 20px 20px 20px;
+}
